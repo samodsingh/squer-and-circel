@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.contant{
+    width: 350px;
+    height: 200px;
+    background-color: rgb(134, 132, 132);
+    margin: auto;
+    margin-top: 20px;
+
+}
+.circel-1{
+     width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 30px;
+} 
+
+.kumar{
+    
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    left: 60%;
+    bottom: 100px;
+
+}
